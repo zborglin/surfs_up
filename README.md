@@ -1,8 +1,5 @@
 # surfs_up
 SQLlite weather analysis application
-
-# **Pyber_Analysis**
-Python Jupyter Notebook Application
 - SQLite DataFrame management
 - numpy, pandas analytics
 
